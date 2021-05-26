@@ -117,8 +117,12 @@ def str_fun():
     # 字符串替换
     a_replace = astr.replace('!', ',.')
     print(a_replace)
+
     # 替换2个
     b_replace = astr.replace('9', '$', 2)
+    print(b_replace)
+
+    b_replace = astr.replace('1', '&', 1)
     print(b_replace)
 
 
