@@ -20,6 +20,7 @@ adict = {'name': '孙皖晴',
          'age': 26}
 print(type(adict))
 
+
 # 字典转字符串
 astr = json.dumps(adict, ensure_ascii=False)
 print(astr)
