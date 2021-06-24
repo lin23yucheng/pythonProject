@@ -25,4 +25,3 @@ if __name__ == '__main__':
     print(a)
     a = 520
     print(a)
-
